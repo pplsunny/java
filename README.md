@@ -1,2 +1,2 @@
 # java
-Java技术点
+> Java技术点整理
